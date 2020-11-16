@@ -30,6 +30,9 @@ Editamos el archivo de README y hacemos un nuevo commit:
 
 En eso estamos... cloné el archivo y empezó la anarquía. Voy a romper todo en este Readme.
 
+#Rompo todo en la branch charlas:
+Eso mismo. Esto no se va a guardar en la master, sino en esta nueva rama.
+
 
 
 
